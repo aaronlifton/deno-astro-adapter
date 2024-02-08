@@ -37,7 +37,10 @@
     "astro": "^3.0.13"
   },
   "devDependencies": {
-    "astro": "^3.0.13",
+    "astro": "^4.3.3",
     "typescript": "^5.2.2"
-  }
+  },
+  "workspaces": [
+    "workspaces/*"
+  ]
 }
